@@ -119,6 +119,7 @@ Sekarang disini akan mencoba menggunakan Bootstrap.
 
     
 ## Akhri Kata
+Di bawah ini 
     [Layout4 Pakai Bootstrap](lab6_bootstrap/index.html)
     [](gambar/Layoutmod.png)
     [FormButton Pakai Bootstrap](lab6_bootstrap/form.html)
@@ -126,5 +127,4 @@ Sekarang disini akan mencoba menggunakan Bootstrap.
     [Portfolio Pakai Bootstrap juga](lab6_bootstrap/about.html)
     [](gambar/port.png)
 
----
 *Selamat mencoba*
