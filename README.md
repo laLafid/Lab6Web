@@ -119,12 +119,16 @@ Sekarang disini akan mencoba menggunakan Bootstrap.
 
     
 ## Akhri Kata
+
 Di bawah ini beberapa latihan yang sudah dikerjakan: 
-    [Layout4 Pakai Bootstrap](lab6_bootstrap/index.html)
-    [!](gambar/Layoutmod.png)
-    [FormButton Pakai Bootstrap](lab6_bootstrap/form.html)
-    [!](gambar/FormButton.png)
-    [Portfolio Pakai Bootstrap juga](lab6_bootstrap/about.html)
-    [!](gambar/port.png)
+
+1. [Layout4 Pakai Bootstrap](lab6_bootstrap/index.html)
+![alt text](gambar/Layoutmod.png)
+
+2. [FormButton Pakai Bootstrap](lab6_bootstrap/form.html)
+![alt text](gambar/FormButton.png)
+
+3. [Portfolio Pakai Bootstrap juga](lab6_bootstrap/about.html)
+![alt text](gambar/port.png)
 
 *Selamat mencoba*
