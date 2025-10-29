@@ -123,7 +123,7 @@ Sekarang disini akan mencoba menggunakan Bootstrap.
 Di bawah ini beberapa latihan yang sudah dikerjakan: 
 
 1. [Layout4 Pakai Bootstrap](lab6_bootstrap/index.html)
-![alt text](gambar/Layoutmod.png)
+![alt text](gambar/image.png)
 
 2. [FormButton Pakai Bootstrap](lab6_bootstrap/form.html)
 ![alt text](gambar/FormButton.png)
